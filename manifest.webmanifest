@@ -1,0 +1,19 @@
+{
+  "name": "SHA Weather — Live Telemetry",
+  "short_name": "SHA Weather",
+  "description": "Погода в реальном времени: телеметрия, радар, почасовой и 8-дневный прогноз.",
+  "id": "/Weather-VUE/",
+  "start_url": "/Weather-VUE/",
+  "scope": "/Weather-VUE/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "lang": "ru",
+  "categories": ["weather", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
